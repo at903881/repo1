@@ -32,4 +32,3 @@ def numIslands(grid):
         print(v)
     return ans
 
-print(numIslands([["1","0","1"],["0","1","0"],["1","0","1"]]))
